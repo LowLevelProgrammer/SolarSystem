@@ -1,0 +1,49 @@
+# Visual Studio Code Files
+.vs/
+.vscode/
+
+# Binaries and Intermediates
+bin/
+bin-int/
+
+# Visual Studio Project and Solution Files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+
+# Visual Studio generated files
+Debug/
+Release/
+x64/
+ipch/
+*.opensdf
+*.sdf
+*.suo
+*.cache
+*.ncb
+*.aps
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.obj
+*.log
+*.tlog
+*.manifest
+
+# CMake build directory
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeScripts/
+
+# Ignore Mac and Linux system files
+.DS_Store
+*.swp
+
+# Ignore Compiled Object files
+*.o
+*.os
